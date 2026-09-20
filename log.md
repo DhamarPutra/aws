@@ -1,3 +1,3 @@
-WIB: Sunday, 20 September 2026 06.46.00 UTC
-WITA: Sunday, 20 September 2026 07.46.00 UTC
-WIT: Sunday, 20 September 2026 08.46.00 UTC
+WIB: Sunday, 20 September 2026 09.14.06 UTC
+WITA: Sunday, 20 September 2026 10.14.06 UTC
+WIT: Sunday, 20 September 2026 11.14.06 UTC
